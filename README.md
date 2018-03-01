@@ -12,6 +12,9 @@ Trains a car on a simulator to drive around a test track without crashing.
   When the code runs three warnings will come up. Ignore these. They are just saying that Conv2D is being replaced in an upcoming version of Keras.
   The output of the code is a a keras model 'model.h5'.
   
+  
+  
+  
   Below is a more detailed description of design choices. It is also availible with images in writeup_report.ipynb.
   
   
